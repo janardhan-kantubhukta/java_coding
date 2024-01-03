@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class Trail
+class Calculator
 {
     public static void main(String args[])
     {
